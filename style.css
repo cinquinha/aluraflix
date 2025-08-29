@@ -1,6 +1,6 @@
 body{
-background-color: rgb(221, 16, 228);
-
-
-
+background-color: rgb(221, 16, 22);
+}
+header {
+    border: solid 2px rgb(42, 122 ,228);
 }
