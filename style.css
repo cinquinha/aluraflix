@@ -20,7 +20,7 @@ header {
 section{ 
     background: rgb(184,156,213);
     padding-bottom: 80px;
-    padding-top: 80px;
+    padding-top: 0px;
     display:flex;
     justify-content: center;
 } a
@@ -41,6 +41,8 @@ h1  {
 
 
    .categoria-videos{   
+        background: rgb(2, 0, 5);
+
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -49,7 +51,7 @@ h1  {
      .categoria{  
       padding-left: 20px;
       padding-right: 20px;
-      margin-top: 50px;
+      margin-top: 0px;
        }
 
 
